@@ -26,8 +26,8 @@
 <br/>
 
 - 👀 I’m interested in *Coding*
-- :telescope: I’m currently working as Web and Game Developer*.
-- :seedling: I’m working on gaming and web development tools*.
+- :telescope: I’m currently working as *Web* and *Game Developer*.
+- :seedling: I’m working on *Game* and *Web* development tools.
 - :dancers: I’m looking to collaborate on LinkedIn.
 - :speech_balloon: Ask me about web and game development.
 - 📫 You can reach me at *khanhhuynguyenvu@gmail.com*
